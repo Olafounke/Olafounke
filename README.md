@@ -18,7 +18,9 @@
 <br>
 
 - 🌱 I’m actually learning computer science.
-- I'm passionate by musique, mangas, Japan and Corean culture
+- 
+- 
+- 
 - I’m currently open for an work-study job opportunity on web development
 
 <br><br>
@@ -46,6 +48,10 @@
 
 <br>
 
+- **Cloud Hosting**:
+
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    
 <br>
 
 - **Softwares and Tools**:
@@ -71,7 +77,7 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<!--## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -83,7 +89,7 @@
 </a>
 </div>
 
-<br>
+<br>-->
 <br>
 <br>
 
