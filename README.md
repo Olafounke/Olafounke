@@ -19,7 +19,7 @@
 
 - 🌱 I’m actually learning computer science.
 - 👯 I'm passionate by musique, mangas, Japan and Corean culture.
-- ⚡ I’m currently open for an work-study job opportunity on web development.
+- ⚡ I’m currently open for an work-study job opportunity in web development.
 
 <br><br>
 
@@ -68,7 +68,7 @@
 </p>
 
 <br>
-----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <br>
 <br>
 
